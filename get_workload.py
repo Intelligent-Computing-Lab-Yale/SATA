@@ -11,9 +11,7 @@ def get_workload(T,b,network_path,sp_s,sp_du,sp_df):
 
     with open(network_path,'r') as file:
         documents = yaml.full_load(file)
-        
-        T = 8
-        b = 8
+
         lif_n = 0
         mac_fwd_n = 0
         pgu_n = 0
