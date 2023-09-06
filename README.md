@@ -1,3 +1,6 @@
+For most updated version, please go to the following link: https://github.com/RuokaiYin/SATA_Sim
+Normally the updates will be reflected in this repo in 1 or 2 days.
+
 # SATA_Sim
 
 ## What's New:
